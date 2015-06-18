@@ -106,12 +106,12 @@ baiduTongji:
 
 #comment config
 disqus:
-  config: false
-  id: piznblog
+  config: true
+  id: newaskydisqus
 
 duoshuo:
-  config: false
-  id: 9leg
+  config: true
+  id: newasky
 
 #baidu share config
 baiduShare:
