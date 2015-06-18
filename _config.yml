@@ -86,6 +86,10 @@ follow:
 #Links
 customLinks:
   - item:
+    - text: CSDN
+      url: http://my.csdn.net/wsnxyyyzyq
+    message: 个人博客 
+  - item:
     - text: San & Rabbit
       url: http://sanrabbit.com/
     message: 朋友    
@@ -101,17 +105,17 @@ googleAnaly:
 
 #baidu tongji
 baiduTongji:
-  config: false
-  id: c12b560f0372d5995701449b9eac606c
+  config: true
+  id: newasky
 
 #comment config
 disqus:
-  config: false
-  id: piznblog
+  config: true
+  id: newaskydisqus
 
 duoshuo:
-  config: false
-  id: 9leg
+  config: true
+  id: newasky
 
 #baidu share config
 baiduShare:
