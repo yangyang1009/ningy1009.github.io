@@ -42,7 +42,7 @@ timezone:      null
 title: 阳阳
 description: 我的博客
 keywords: Java
-url: http://newasky.com/
+url: http://newasky.com
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
