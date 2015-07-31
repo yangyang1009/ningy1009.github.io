@@ -2,35 +2,25 @@
 layout: post
 title:  "git的简单使用"
 date:   2015-07-31 17:57:38
-categories: The use of git
+categories: The-use-of-git
 ---
 # git的简单使用 #
 ## git的安装 ##
 - 官方的下载地址 [http://git-scm.com/download/](http://git-scm.com/download/ "git download")
-
 - 安装完毕在本地创建git 的目录
 ## git的常用命令使用 ##
 - mkdir git_WorkSpace
-
-
 - cd git_WorkSpace
-
-
 - git init  初始化git 目录
-
 
 - 实际开发中，我们通常是直接用别人的仓库来进行进一步的开发，那么下面的流程就是必须要看的了：
 因为是团队合作，所以每个人在使用git时，要先进行类似的配置。
 
-
 -  git config --global user.name "ningy1009"
-
 
 -  git config --global user.email "1309958989@qq.com"
 
-
 - 这样的配置文件也可以在/home/ningy1009/.gitconfig中看到。
-
 
 - 回到自己的 /home/ningy1009/ 目录下
 -  mkdir project
