@@ -4,14 +4,15 @@ title:  "git的简单使用"
 date:   2015-07-31 17:57:38
 categories: The-use-of-git
 ---
-# git的简单使用 #
 
 ## git的安装 ##
 
 - 官方的下载地址 [http://git-scm.com/download/](http://git-scm.com/download/ "git download")
 
 - 安装完毕在本地创建git 的目录
+- 
 ## git的常用命令使用 ##
+
 - mkdir git_WorkSpace
 
 - cd git_WorkSpace
