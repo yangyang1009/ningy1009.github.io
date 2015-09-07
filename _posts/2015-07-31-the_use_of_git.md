@@ -43,7 +43,9 @@ categories: The-use-of-git
 		(use "git rm --cached <file>..." to unstage) </br>
 		new file: example </br>
 		new file: hello </br>
-- 我们能看到 git 的状态提示。提示信息告诉我们版本库中加入了两个新的文件，并且 git 提示我们提交这些文件，我们可以通过 git-commit 命令来提交，这里我们有两种输入方式</br>
+- 我们能看到 git 的状态提示。提示信息告诉我们版本库中加入了两个新的文件，并且 git 提示我们提交这些文件，我们可以通过
+- git add 文件存放在本地的git目录
+-  git-commit 命令来提交，这里我们有两种输入方式</br>
 - （1）带参数 m </br>
 git commit -m "Initial commit of gittest reposistory" </br>
 引号中的内容就是类似于SVN中每次提交代码前，都要填写的message信息，以便于以后自己或者别人能明白你这次更改的原因，及相关改动的信息。
