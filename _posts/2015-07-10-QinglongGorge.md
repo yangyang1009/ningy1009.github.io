@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "青龙峡一日游"
+title:  "青龙峡一日游2016"
 date:   2015-07-09 14:57:38
 categories: Travel
 ---
@@ -28,6 +28,12 @@ categories: Travel
 
 -  下面是936路 的时刻表<br/>
 ![](https://github.com/ningy1009/ningy1009.github.io/blob/master/936.jpg?raw=true)
+
+- 测试小家庭<br/>
+![小家](/03.jpg)
+
+- 郭呆萌<br/>
+![郭呆萌](/images/18.jpg)
 
 - * 3. 青龙峡门票 
 
