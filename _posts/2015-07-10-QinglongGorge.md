@@ -29,6 +29,9 @@ categories: Travel
 -  下面是936路 的时刻表<br/>
 ![](https://github.com/ningy1009/ningy1009.github.io/blob/master/936.jpg?raw=true)
 
+- 测试小家庭<br/>
+![小家](/03.jpg)
+
 - * 3. 青龙峡门票 
 
 
