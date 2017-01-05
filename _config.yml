@@ -78,6 +78,7 @@ follow:
 #    url: http://facebook.com/
   - class: icon-github-alt
     url: http://github.com/ningy1009
+    #https://github.com/ningy1009/ningy1009.github.io
 #  - class: icon-twitter
 #    url: http://twitter.com/
 #  - class: icon-google-plus
